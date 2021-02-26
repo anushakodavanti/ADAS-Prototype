@@ -6,4 +6,4 @@ This Project is about redesigning a driver dashboard to improve communication be
 2. Prototype
 3. Usability Study 
 
-You can find the additional Details in the PDF 
+You can find the additional details in the PDF 
